@@ -34,7 +34,7 @@ const menuItems = [
     { icon: <TbNurse className="button-icon" />, text: "เว็บฝ่ายการพยาบาล", link: "https://nurse.phonhospital.go.th/" },
     { icon: <GiMedicines className="button-icon" />, text: "เว็บกลุ่มงานเภสัชกรรมและคุ้มครองผู้บริโภค", link: "https://sites.google.com/kkumail.com/pharm-phon/home" },
     { icon: <TbDownload className="button-icon" />, text: "ดาวโหลดแบบฟอร์มต่างๆ", link: "https://forms.phonhos.com" },
-    { icon: <GiAutoRepair className="button-icon" />, text: "แจ้งซ่อมคอมพิวเตอร์", link: "https://repair.phonhos.com" },
+    { icon: <GiAutoRepair className="button-icon" />, text: "แจ้งซ่อมคอมพิวเตอร์", link: "https://docs.google.com/forms/d/e/1FAIpQLSdAtpwdCRUR83gBz4z3HTRkMalf6sODIek-GxJ_gxLd3wtQnQ/viewform" },
     { icon: <img src={spsorchorLogo} alt="" />, text: "เว็บ New authentication", link: "https://authenservice.nhso.go.th/authencode/#/login" },
     { icon: <RiMailSendLine className="button-icon" />, text: "ส่งข้อมูลไฟแนนซ์ Hub data", link: "https://fdh.moph.go.th/hospital/" },
     { icon: <RiMailSendLine className="button-icon" />, text: "ส่งข้อมูล 43 แฟม สปสช.", link: "https://op.nhso.go.th/op/login/LoginAction.do" },
